@@ -3,7 +3,7 @@ Install anaconda & Launch jupyter server on ubuntu environment.
 
 This image is based on ubuntu:18.04 official image.
 
-Dockerfile => github.com/melli0505/notebook-anaconda-docker
+Docker hub => https://hub.docker.com/r/mysterias/notebook
 
 ## Pull Image
 ```$ docker pull mysterias/notebook```
